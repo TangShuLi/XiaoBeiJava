@@ -42,7 +42,7 @@
       "password": "192637",
       "location": "112.911927,28.357961",
       "place": "中国-湖南省-长沙市-望城区",
-      "email": "853726664@qq.com"
+      "email": ""
     },
     {
       "username": "432524200201125413",
@@ -59,8 +59,8 @@
       "email": ""
     }
   ],
-  "sender_email": "853726664@qq.com",
-  "key": "bxuumjowjxjhbeig",
-  "host": "smtp.qq.com"
+  "sender_email": "",
+  "key": "",
+  "host": ""
 }
 
