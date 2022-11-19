@@ -156,7 +156,7 @@ public class Action {
         }
         Random random = new Random();
         String[] lc = user.getLocation().split(",");
-        BigDecimal bigDecimal = BigDecimal.valueOf(random.nextDouble(367, 372) / 10).setScale(1, RoundingMode.DOWN);
+        BigDecimal bigDecimal = BigDecimal.valueOf(random.nextDouble(361, 369) / 10).setScale(1, RoundingMode.DOWN);
         String temperature = String.valueOf(bigDecimal);
         int rand = random.nextInt(1111, 9999);
         String location_x = String.valueOf((double) rand / 100000 + Double.parseDouble(lc[0]));
