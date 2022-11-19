@@ -34,6 +34,13 @@
       "accept_language": "zh-cn",
       "accept_encoding": "gzip, deflate, br",
       "content_type": "application/json;charset=UTF-8"
+    },
+    {
+      "user_agent": "xiaomi11,3(Android/11) Uninview(Uninview/1.0.0) Weex/0.26.0 1080x1920",
+      "accept": "*/*",
+      "accept_language": "zh-cn",
+      "accept_encoding": "gzip, deflate, br",
+      "content_type": "application/json;charset=UTF-8"
     }
   ],
   "user": [
@@ -68,6 +75,13 @@
     {
       "username": "430281200103104538",
       "password": "104538",
+      "location": "112.911927,28.357961",
+      "place": "中国-湖南省-长沙市-望城区",
+      "email": ""
+    },
+    {
+      "username": "430481199905019699",
+      "password": "019699",
       "location": "112.911927,28.357961",
       "place": "中国-湖南省-长沙市-望城区",
       "email": ""
