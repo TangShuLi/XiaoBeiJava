@@ -71,14 +71,14 @@
       "content_type": "application/json;charset=UTF-8"
     },
     {
-      "user_agent": "iphoneX,3(IOS/13) Uninview(Uninview/1.0.0) Weex/0.26.0 1080x1920",
+      "user_agent": "xiaomi10,3(Android/11) Uninview(Uninview/1.0.0) Weex/0.26.0 1080x1920",
       "accept": "*/*",
       "accept_language": "zh-cn",
       "accept_encoding": "gzip, deflate, br",
       "content_type": "application/json;charset=UTF-8"
     },
     {
-      "user_agent": "iphoneXR,3(IOS/13) Uninview(Uninview/1.0.0) Weex/0.26.0 1080x1920",
+      "user_agent": "xiaomi11,3(Android/11) Uninview(Uninview/1.0.0) Weex/0.26.0 1080x1920",
       "accept": "*/*",
       "accept_language": "zh-cn",
       "accept_encoding": "gzip, deflate, br",
@@ -164,8 +164,8 @@
       "email": ""
     },
     {
-      "username": "430524200211082435",
-      "password": "082435",
+      "username": "43123020010525002X",
+      "password": "qqqqqqqq123QQQ",
       "location": "112.911927,28.357961",
       "place": "中国-湖南省-长沙市-望城区",
       "email": ""
